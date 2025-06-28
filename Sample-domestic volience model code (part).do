@@ -1,4 +1,4 @@
-* 1. 载入数据 换成自己的路径
+* 1. 载入数据
 import excel "D:\桌面\总数据.xlsx", sheet("Sheet1") firstrow clear
 
 * 2. 数据预处理
@@ -10,7 +10,8 @@ regress 量刑刑期 家暴认定
 * 4. Logit回归
 logit 被害人过错 家暴认定
 
-* 1. 载入数据 换成自己的路径
+_____________________________
+* 1. 载入数据
 import excel "C:\Users\dell\PythonDataAnalysis\wdn\test即时对抗性反杀.xlsx", sheet("Sheet1") firstrow clear
 
 * 2. 变量处理
