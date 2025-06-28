@@ -1,6 +1,6 @@
 ################### 1. Data Cleaning & EDA ##############
 
-setwd("D:/_Zzzxy/_JHU/Spring 1/Retail Analytics/Week5")
+setwd("D:/Retail Analytics")
 
 library(dplyr)
 library(ggplot2)
