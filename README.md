@@ -6,7 +6,7 @@ _Last updated: Oct 11, 2025_
 ## Contents
 
 ### 1) `Python-Sample.ipynb`
-**Carbon Credit Retirements: Market Dynamics and Institutional Drivers — Jul 2025**  
+**Carbon Credit Retirements: Market Dynamics and Institutional Drivers**  
 - **What it does:** Uses log-linear regression on 10,000+ project-level observations to identify determinants of carbon credit retirements.  
 - **Key findings:** Compliance markets retire ~198% more credits than voluntary markets; volumes increased ~358% after the Paris Agreement; effects vary by project type, registry, and country, underscoring institutional drivers.  
 - **Stack:** Python 3.10+, `pandas`, `numpy`, `statsmodels`, `matplotlib`.
@@ -23,13 +23,11 @@ _Last updated: Oct 11, 2025_
   - Ownership concentration has a **significant positive** effect on performance.  
   - **Mediation:** Part of the effect operates **via reduced agency costs**.  
   - **Heterogeneity:** Stronger in **private** and **small** firms; attenuated in **SOEs**.  
-- **How to run:** Open the `.do` file in Stata (v16+ recommended), set your working directory/data paths at the top, then run.
 
-### 4) `Rsample/` (Retail Location Strategy) *(if included in the repo)*
-**Johns Hopkins University, Washington, D.C. — Jan–May 2025**  
+### 4) `R-Sample.R` (Retail Location Strategy) 
+**Retail Location Strategy Based on Consumer Segmentation and Market Gaps**  
 - **What it does:** Uses Dominick’s Finer Foods database to model retail revenue drivers; builds a **Retail Suitability Index** via **Fuzzy AHP**; performs **K-means** clustering with **t-SNE** visualization; leverages **ArcGIS** for geospatial support on store placement/format strategy.  
 - **Stack:** R 4.2+ (`tidyverse`, `cluster`, `Rtsne`, `FuzzyAHP`), ArcGIS/ArcGIS Pro for maps.  
-- **How to run:** Knit the R scripts/Quarto files (see repo notes) after setting data paths; GIS layers should be placed in the `data/gis/` folder.
 
 ---
 
