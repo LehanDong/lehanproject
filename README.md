@@ -1,6 +1,6 @@
 # Research & Writing Samples — Lehan (Emma) Dong
 
-This repository collects code, writing samples, and presentation materials from selected research projects I have worked on between 2023 and 2026. It is intended primarily for prospective faculty advisors, pre-doctoral hiring committees, and research-assistant supervisors evaluating my technical and analytical background.
+This repository collects code, writing samples, and presentation materials from selected research projects I have worked on between 2023 and 2025. It is intended primarily for prospective faculty advisors, pre-doctoral hiring committees, and research-assistant supervisors evaluating my technical and analytical background.
 
 For a fuller overview of my research, please see my [personal website](https://lehandong.github.io) or [CV](https://lehandong.github.io/cv.pdf).
 
