@@ -26,8 +26,8 @@ Audited 233 domestic-violence self-defense rulings across 32 Chinese provinces t
 
 ---
 
-### 3. [ESG Performance and the Cost of Capital of Chinese Listed Firms](./03_esg_cost_of_capital/)
-Built a firm-year panel of A-share listed firms (2013–2024) to examine how ESG performance affects firms' weighted average cost of capital, with two-way fixed effects, IV, and lagged specifications. Includes notebook and writing sample.
+### 3. [Carboon Retirement](./03_carbon_retirement/)
+Use project-level carbon credit data to examine the determinants of retirement volumes, showing that compliance-market projects, registry choice, project type, and country-level factors are strongly associated with retirement behavior. It finds that carbon credit retirements respond more to long-term policy frameworks, such as the Paris Agreement, than to short-term news shocks. Includes notebook and writing sample.
 
 **Methods:** Panel fixed effects, instrumental variables, robustness checks
 **Tools:** Python (pandas, linearmodels, statsmodels)
@@ -35,13 +35,18 @@ Built a firm-year panel of A-share listed firms (2013–2024) to examine how ESG
 ---
 
 ### 4. [Structural Demand Estimation — Dominick's Finer Foods](./04_grocery_demand_dominick/)
-Sample R code from a research-assistant project at Johns Hopkins Carey Business School using the Dominick's Finer Foods scanner-data panel. Related to a broader project estimating an MDCEV model on 36.2M grocery transactions.
+Sample R code from a research-assistant project at Johns Hopkins Carey Business School using the Dominick's Finer Foods scanner-data panel.
 
-**Methods:** Discrete-continuous demand estimation, panel data preparation
+**Methods:** panel data preparation
 **Tools:** R (dplyr, ggplot2)
 
 ---
+### Conference
 
+Selected one poster about occupational segregation in China (2012-2022)
+
+
+---
 ### Coursework
 
 Selected work from JHU coursework, included for completeness:
@@ -59,4 +64,4 @@ For full pipelines, additional results, or extended robustness checks, please co
 
 ---
 
-*Last updated: May 2026*
+*Last updated: Dec 2025*
